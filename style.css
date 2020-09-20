@@ -1,0 +1,107 @@
+.header{
+    color: rgb(255, 153, 0);
+    background-color: rgba(12, 3, 107, 0.842);
+    position: relative;
+    padding: 19px;
+}
+
+.logoMongo{
+    float: right;
+    margin-right: 18%;
+    position: relative;
+}
+
+.logoCine{
+    float: left;
+    position: relative;
+    margin-left: 18%;
+}
+
+
+
+.body{
+    background-color:rgba(255, 145, 0, 0.527);
+    font-family: 'calibri'  ;
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+}
+
+.bouton{
+    background-color: #f7cc0e;
+    color: black;
+}
+
+#nav 
+{
+   margin:0;
+   padding:0;
+   float:center;
+   width:100%;
+  
+}
+
+#nav li 
+{
+   display:inline;
+   padding:0;
+   margin:0;
+ 
+}
+
+
+#nav a:link, #nav a:visited 
+{
+   color:rgba(251, 253, 255, 0.849);
+   background:#170275a8;
+   padding: 9px 36px 8px 9px;
+   float:center;
+   width:auto;
+}
+
+
+.table{
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-collapse: collapse;  
+    width: 50%;
+}
+
+th {
+    font-family: monospace;
+    border: thin solid #6495ed;
+    width: 5%;
+    padding: 1px;
+    background-color: #D0E3FA;
+    background-image: url(sky.jpg);
+    }
+    td {
+    font-family: sans-serif;
+    border: thin solid #6495ed;
+    width: 5%;
+    padding: 1px;
+    text-align: center;
+    background-color: #ffffff;
+    }
+    caption {
+    font-family: sans-serif;
+    }
+
+
+.form-group{
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-collapse: collapse;  
+    width: 50%;
+
+}
+
+
+
+.images {
+    padding: 9px;
+    text-align: center;
+    background: #cf901b;
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+  }
